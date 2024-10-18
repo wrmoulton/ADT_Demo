@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = devices_simulation
+build_property.ProjectDir = C:\Users\wi472920\IoTDemos\ADT-SupplyChainDemo\tools\devices-simulation\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
